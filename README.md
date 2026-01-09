@@ -91,3 +91,10 @@ github. In this tutorial you will learn:
   4. ![](./assets/pullrequest-merge.png)
   5. ![](./assets/pullrequest-merge-commit.png)
   6. ![](./assets/pullrequest-done.png)
+
+### In case of Conflict
+  1. ![](./assets/pullrequest-conflict.png)
+  2. ![](./assets/pullrequest-conflict-edit.png)
+  3. ![](./assets/pullrequest-conflict-mark-resolve.png)
+  4. ![](./assets/pullrequest-conflict-commit-merge.png)
+  5. ![](./assets/pullrequest-conflict-merge-pull.png)
