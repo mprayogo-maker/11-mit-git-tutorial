@@ -52,7 +52,7 @@ github. In this tutorial you will learn:
 2. Click on the Add file dropdown. Then click on Create new file option.
   ![](./assets/individual-create-newfile.png)
 
-3.
+3.  
   1. Put your github account's username as the file's name.
   2. Fill the file with the following information  
     > Name:  
