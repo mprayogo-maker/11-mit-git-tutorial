@@ -19,3 +19,24 @@ github. In this tutorial you will learn:
 
 3. After that you will be greated with a fork of the repository under you github account.  
   ![](./assets/fork-success.png)
+
+## Creating a branch
+
+1. Click the branch tag at the top beside button labeled main.  
+  ![](./assets/branch-button.png)
+
+2. Click the new branch button.  
+  ![](./assets/branch-create)
+
+3. Put your github account username as the name of the branch and then click create new branch.  
+  ![](./assets/branch-name.png)
+
+4. You will see the new created branch under your branches section.  
+  ![](./assets/branch-confirm.png)
+
+5. Click on your newly created branch to change to that branch.  
+  ![](./assets/branch-change.png)
+
+6. You then will be greeted with the project root again, but now the label main at the top
+  will be changed to the name of the branch you just click. It will also highlighted in blue.
+  ![](./assets/branch-change-confirm.png)
